@@ -1,6 +1,6 @@
-# Organización Computacional
-
 <div align="center">
+
+# Organización Computacional
 
 ### 🏫 Información del curso
 
