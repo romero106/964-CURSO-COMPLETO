@@ -38,34 +38,40 @@ Este repositorio está pensado como un espacio de apoyo para el estudio y la con
 
 ---
 
-## 🗂️ Organización del contenido
+## 🗂️ Contenido
 
 El material se encuentra organizado por unidades y temas, siguiendo la estructura general del curso.
 
-```text
-/
-├── Unidad 1/
-│   ├── Tema 1.md
-│   ├── Tema 2.md
-│   ├── Tema 3.md
-│   └── ...
-│
-├── Unidad 2/
-│   └── ...
-│
-├── Unidad 3/
-│   └── ...
-│
-├── Recursos/
-│   ├── Bibliografía recomendada/
-│   └── Programa del curso/
-│       ├── Programa del curso.md
-│       └── Programa del curso.pdf
-│
-└── README.md
-```
+### Unidad 1: Lógica combinacional
 
-La estructura detallada de los contenidos puede consultarse en el [programa del curso](Recursos/Programa%20del%20curso/Programa%20del%20curso.md).
+- [Bases numéricas](../../Unidad%201/Tema%201.md)
+- [Lógica binaria](../../Unidad%201/Tema%201.md)
+- [Compuertas lógicas](../../Unidad%201/Tema%203.md)
+- [Métodos de agrupación](../../Unidad%201/Tema%204.md)
+- [Álgebra de Boole](../../Unidad%201/Tema%205.md)
+- [Métodos de simplificación](../../Unidad%201/Tema%206.md)
+- [Códigos binarios y Complemento en base r & r-](../../Unidad%201/Tema%207.md)
+- [Diseño con lógica combinacional](../../Unidad%201/Tema%208.md)
+- [Bloques digitales combinacionales de mediana escala de integración](../../Unidad%201/Tema%209.md)
+
+### Unidad 2: Lógica secuencial
+
+- [Retroalimentación digital](../../Unidad%202/Tema%201.md)
+- [Flip-flops](../../Unidad%202/Tema%202.md)
+- [Diagramas de tiempo](../../Unidad%202/Tema%203.md)
+- [Diagramas de estado](../../Unidad%202/Tema%204.md)
+- [Diseño con lógica secuencial](../../Unidad%202/Tema%205.md)
+- [Bloques digitales secuenciales de mediana y alta escala de integración](../../Unidad%202/Tema%206.md)
+- [Familias lógicas](../../Unidad%202/Tema%207.md)
+
+### Unidad 3: Lógica de transferencia entre registros
+
+- [Lógica de transferencia entre registros](../../Unidad%203/Tema%201.md)
+- [Microoperaciones](../../Unidad%203/Tema%202.md)
+- [Macrooperaciones](../../Unidad%203/Tema%203.md)
+- [Herramientas utilizadas en LTR](../../Unidad%203/Tema%204.md)
+- [Diseño con LTR](../../Unidad%203/Tema%205.md)
+- [Concepto básico de CPU con modelo de von Neumann](../../Unidad%203/Tema%206.md)
 
 ---
 
