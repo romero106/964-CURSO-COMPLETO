@@ -28,8 +28,6 @@ A diferencia de un repositorio utilizado durante el semestre, aquí no se busca 
 
 ## Contenido
 
-El material se encuentra organizado por unidades y temas, siguiendo la estructura general del curso.
-
 ### Unidad 1: Lógica combinacional
 
 - [Bases numéricas](../../Unidad%201/Tema%201.md)
