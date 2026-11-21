@@ -17,7 +17,7 @@
 
 ---
 
-## Acerca de este repositorio
+## 📖 Acerca de este repositorio
 
 A diferencia de un repositorio utilizado durante el semestre, aquí no se busca conservar actividades, tareas, prácticas, proyectos o entregas realizadas durante el curso. En su lugar, se incluyen únicamente recursos orientados al aprendizaje y comprensión de los temas del curso.
 
@@ -26,7 +26,7 @@ A diferencia de un repositorio utilizado durante el semestre, aquí no se busca 
 
 ---
 
-## Contenido
+## 🗂️ Contenido del curso
 
 El material se encuentra organizado por unidades y temas, siguiendo la estructura general del curso.
 
@@ -63,7 +63,7 @@ El material se encuentra organizado por unidades y temas, siguiendo la estructur
 
 ---
 
-## Fuentes y referencias
+## ⛲ Fuentes y referencias
 
 El contenido fue elaborado utilizando como base distintas fuentes y materiales relacionados con el curso, tales como:
 
@@ -77,7 +77,7 @@ El contenido fue elaborado utilizando como base distintas fuentes y materiales r
 
 ---
 
-## Mantenimiento
+## 🚧 Mantenimiento
 
 El repositorio presenta una versión consolidada del contenido del curso, aunque puede actualizarse con el tiempo para:
 
@@ -90,7 +90,7 @@ El repositorio presenta una versión consolidada del contenido del curso, aunque
 
 ---
 
-## Uso académico
+## 🎓 Uso académico
 
 Este repositorio fue elaborado con fines **académicos y educativos**. El material está pensado como una referencia complementaria para estudiantes y como recurso personal de consulta futura.
 
