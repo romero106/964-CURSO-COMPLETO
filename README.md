@@ -73,8 +73,8 @@ El contenido fue elaborado utilizando como base distintas fuentes y materiales r
 
 ### Recursos principales
 
-- [Lógica digital y diseño de computadores, 1ra Edición, por M. Morris Mano](Recursos/Bibliografía%20recomendada/Lógica%20digital%20y%20diseño%20de%20computadores,%201ra%20Edición,%20por%20M.%20Morris%20Mano.pdf)
 - Grabaciones de las clases del segundo semestre del 2026.
+- [Lógica digital y diseño de computadores, 1ra Edición, por M. Morris Mano](Recursos/Bibliografía%20recomendada/Lógica%20digital%20y%20diseño%20de%20computadores,%201ra%20Edición,%20por%20M.%20Morris%20Mano.pdf)
 
 ---
 
