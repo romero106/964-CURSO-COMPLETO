@@ -1,5 +1,8 @@
-# Organización Computacional
 <div align="center">
+
+# Organización Computacional
+
+> Este repositorio contiene material de estudio orientado al aprendizaje y repaso del curso Organización Computacional.
 
 ### 🏫 Información del curso
 
