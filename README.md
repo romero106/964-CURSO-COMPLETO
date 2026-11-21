@@ -1,14 +1,10 @@
 # Organización Computacional
 
-> Repositorio organizado para facilitar el estudio, repaso y consulta de los contenidos del curso **Organización Computacional**.
-
----
-
 <div align="center">
 
 ### 🏫 Información del curso
 
-| **Ítem**     |            **Información** |
+| **Ítem**     |                **Detalle** |
 | :----------- | -------------------------: |
 | **Código**   |                      `964` |
 | **Créditos** |                        `4` |
