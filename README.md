@@ -28,7 +28,7 @@ A diferencia de un repositorio utilizado durante el semestre, aquí no se busca 
 
 ## 🗂️ Contenido del curso
 
-El material se encuentra organizado por unidades y temas, siguiendo la estructura general del curso.
+El material se encuentra organizado en distintas unidades, siguiendo la estructura general del curso.
 
 ### Unidad 1: Lógica combinacional
 
@@ -94,7 +94,7 @@ El repositorio presenta una versión consolidada del contenido del curso, aunque
 
 Este repositorio fue elaborado con fines **académicos y educativos**. El material está pensado como una referencia complementaria para estudiantes y como recurso personal de consulta futura.
 
-Las explicaciones y la organización de los contenidos pueden diferir de cómo se imparta el curso en otros períodos académicos. Por ese motivo, siempre recomiendo consultar el programa vigente y las indicaciones proporcionadas por los catedráticos.
+Las explicaciones y la organización de los contenidos pueden diferir de cómo se imparta el curso en otros períodos académicos. Por ese motivo, recomiendo consultar el programa vigente y las indicaciones proporcionadas por los catedráticos.
 
 ---
 
