@@ -32,34 +32,34 @@ El material se encuentra organizado en distintas unidades, siguiendo la estructu
 
 ### Unidad 1: Lógica combinacional
 
-- [Bases numéricas](../../Unidad%201/Tema%201.md)
-- [Lógica binaria](../../Unidad%201/Tema%201.md)
-- [Compuertas lógicas](../../Unidad%201/Tema%203.md)
-- [Métodos de agrupación](../../Unidad%201/Tema%204.md)
-- [Álgebra de Boole](../../Unidad%201/Tema%205.md)
-- [Métodos de simplificación](../../Unidad%201/Tema%206.md)
-- [Códigos binarios y Complemento en base r & r-](../../Unidad%201/Tema%207.md)
-- [Diseño con lógica combinacional](../../Unidad%201/Tema%208.md)
-- [Bloques digitales combinacionales de mediana escala de integración](../../Unidad%201/Tema%209.md)
+- [Bases numéricas](/Unidad-1/bases-numericas.md)
+- [Lógica binaria](/Unidad-1/logica-binaria.md)
+- [Compuertas lógicas](/Unidad-1/compuertas-logicas.md)
+- [Métodos de agrupación](/Unidad-1/metodos-de-agrupacion.md)
+- [Álgebra de Boole](/Unidad-1/algebra-booleana.md)
+- [Métodos de simplificación](/Unidad-1/metodos-simplificacion.md)
+- [Códigos binarios y Complemento en base r & r-](/Unidad-1/codigos-binarios-complementos.md)
+- [Diseño con lógica combinacional](/Unidad-1/diseno-logica-combinacional.md)
+- [Bloques digitales combinacionales de mediana escala de integración](/Unidad-1/bloques-digitales-combinacionales.md)
 
 ### Unidad 2: Lógica secuencial
 
-- [Retroalimentación digital](../../Unidad%202/Tema%201.md)
-- [Flip-flops](../../Unidad%202/Tema%202.md)
-- [Diagramas de tiempo](../../Unidad%202/Tema%203.md)
-- [Diagramas de estado](../../Unidad%202/Tema%204.md)
-- [Diseño con lógica secuencial](../../Unidad%202/Tema%205.md)
-- [Bloques digitales secuenciales de mediana y alta escala de integración](../../Unidad%202/Tema%206.md)
-- [Familias lógicas](../../Unidad%202/Tema%207.md)
+- [Retroalimentación digital](/Unidad-2/retroalimentacion-digital.md)
+- [Flip-flops](/Unidad-2/flip-flops.md)
+- [Diagramas de tiempo](/Unidad-2/diagramas-de-tiempo.md)
+- [Diagramas de estado](/Unidad-2/diagramas-de-estado.md)
+- [Diseño con lógica secuencial](/Unidad-2/diseno-con-logica-secuencial.md)
+- [Bloques digitales secuenciales de mediana y alta escala de integración](/Unidad-2/bloques-digitales-secuenciales.md)
+- [Familias lógicas](/Unidad-2/familias-logicas.md)
 
 ### Unidad 3: Lógica de transferencia entre registros
 
-- [Lógica de transferencia entre registros](../../Unidad%203/Tema%201.md)
-- [Microoperaciones](../../Unidad%203/Tema%202.md)
-- [Macrooperaciones](../../Unidad%203/Tema%203.md)
-- [Herramientas utilizadas en LTR](../../Unidad%203/Tema%204.md)
-- [Diseño con LTR](../../Unidad%203/Tema%205.md)
-- [Concepto básico de CPU con modelo de von Neumann](../../Unidad%203/Tema%206.md)
+- [Lógica de transferencia entre registros](/Unidad-3/transferencia-entre-registros.md)
+- [Microoperaciones](/Unidad-3/microoperaciones.md)
+- [Macrooperaciones](/Unidad-3/macrooperaciones.md)
+- [Herramientas utilizadas en LTR](/Unidad-3/herramientas-en-ltr.md)
+- [Diseño con LTR](/Unidad-3/diseño-con-ltr.md)
+- [Concepto básico de CPU con modelo de von Neumann](/Unidad-3/cpu-von-neumann.md)
 
 ---
 
@@ -74,7 +74,7 @@ El contenido fue elaborado utilizando como base distintas fuentes y materiales r
 ### Recursos principales
 
 - Grabaciones de las clases del segundo semestre del 2026.
-- [Lógica digital y diseño de computadores, 1ra Edición, por M. Morris Mano](Recursos/Bibliografía%20recomendada/Lógica%20digital%20y%20diseño%20de%20computadores,%201ra%20Edición,%20por%20M.%20Morris%20Mano.pdf)
+- [Lógica digital y diseño de computadores, 1ra Edición, por M. Morris Mano](Recursos/logica-digital-diseño-de-computadores-morris-mano.pdf)
 
 ---
 

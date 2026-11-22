@@ -1,15 +1,9 @@
 ---
 Sección: A
 Período: Vacaciones Primer Semestre 2026
-Catedrático: Carlos Amilcar Lozano
+Catedrático: Carlos Amilcar Lozano Reyes
 Auxiliar: Carlos José Blanco Guzmán
-Actualizado: 2026-08-15
-Tags:
-  - mapas-de-karnaugh
-  - métodos-de-agrupación
-  - minterms
-  - simplificación-lógica
-  - código-gray
+Actualizado: 2026-11-21
 ---
 
 # Métodos de agrupación

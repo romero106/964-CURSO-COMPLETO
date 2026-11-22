@@ -1,21 +1,12 @@
 ---
 Sección: A
 Período: Vacaciones Primer Semestre 2026
-Catedrático: Carlos Amilcar Lozano
+Catedrático: Carlos Amilcar Lozano Reyes
 Auxiliar: Carlos José Blanco Guzmán
-Actualizado: 2026-08-24
-Tags:
-  - lógica-secuencial
-  - flip-flops
-  - memoria
-  - estado
-  - rs
-  - d
-  - jk
-  - t
+Actualizado: 2026-11-21
 ---
 
-# Flip-flops
+# Flip flops
 
 ## 1. Concepto de flip-flop
 

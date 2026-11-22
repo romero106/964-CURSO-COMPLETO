@@ -1,15 +1,9 @@
 ---
 Sección: A
 Período: Vacaciones Primer Semestre 2026
-Catedrático: Carlos Amilcar Lozano
+Catedrático: Carlos Amilcar Lozano Reyes
 Auxiliar: Carlos José Blanco Guzmán
-Actualizado: 2026-08-24
-Tags:
-  - lógica-de-transferencia-entre-registros
-  - registros
-  - microoperaciones
-  - bus-común
-  - memoria
+Actualizado: 2026-11-21
 ---
 
 # Lógica de transferencia entre registros

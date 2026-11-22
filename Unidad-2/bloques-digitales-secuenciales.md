@@ -1,16 +1,9 @@
 ---
 Sección: A
 Período: Vacaciones Primer Semestre 2026
-Catedrático: Carlos Amilcar Lozano
+Catedrático: Carlos Amilcar Lozano Reyes
 Auxiliar: Carlos José Blanco Guzmán
-Actualizado: 2026-08-24
-Tags:
-  - lógica-secuencial
-  - bloques-secuenciales
-  - registros
-  - registros-de-desplazamiento
-  - contadores
-  - memoria
+Actualizado: 2026-11-21
 ---
 
 # Bloques digitales secuenciales de mediana y alta escala de integración

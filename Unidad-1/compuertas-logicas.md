@@ -1,15 +1,9 @@
 ---
 Sección: A
 Período: Vacaciones Primer Semestre 2026
-Catedrático: Carlos Amilcar Lozano
+Catedrático: Carlos Amilcar Lozano Reyes
 Auxiliar: Carlos José Blanco Guzmán
-Actualizado: 2026-08-15
-Tags:
-  - compuertas-lógicas
-  - compuertas-básicas
-  - compuertas-universales
-  - or-exclusiva
-  - tablas-de-verdad
+Actualizado: 2026-11-21
 ---
 
 # Compuertas lógicas

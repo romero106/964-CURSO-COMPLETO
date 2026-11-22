@@ -1,20 +1,9 @@
 ---
 Sección: A
 Período: Vacaciones Primer Semestre 2026
-Catedrático: Carlos Amilcar Lozano
+Catedrático: Carlos Amilcar Lozano Reyes
 Auxiliar: Carlos José Blanco Guzmán
-Actualizado: 2026-08-15
-Tags:
-  - lógica-combinacional
-  - msi
-  - lsi
-  - sumadores
-  - comparadores
-  - decodificadores
-  - codificadores
-  - multiplexores
-  - rom
-  - pla
+Actualizado: 2026-11-21
 ---
 
 # Bloques digitales combinacionales de mediana escala de integración

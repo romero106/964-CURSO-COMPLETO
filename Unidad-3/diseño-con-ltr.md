@@ -1,15 +1,9 @@
 ---
 Sección: A
 Período: Vacaciones Primer Semestre 2026
-Catedrático: Carlos Amilcar Lozano
+Catedrático: Carlos Amilcar Lozano Reyes
 Auxiliar: Carlos José Blanco Guzmán
-Actualizado: 2026-08-24
-Tags:
-  - diseño-con-ltr
-  - camino-de-datos
-  - unidad-de-control
-  - ciclo-de-instrucción
-  - computador-sencillo
+Actualizado: 2026-11-21
 ---
 
 # Diseño con LTR

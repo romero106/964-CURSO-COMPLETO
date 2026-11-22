@@ -1,16 +1,9 @@
 ---
 Sección: A
 Período: Vacaciones Primer Semestre 2026
-Catedrático: Carlos Amilcar Lozano
+Catedrático: Carlos Amilcar Lozano Reyes
 Auxiliar: Carlos José Blanco Guzmán
-Actualizado: 2026-08-24
-Tags:
-  - lógica-secuencial
-  - análisis-secuencial
-  - tablas-de-estado
-  - diagramas-de-estado
-  - ecuaciones-de-estado
-  - funciones-de-entrada
+Actualizado: 2026-11-21
 ---
 
 # Diagramas de estado

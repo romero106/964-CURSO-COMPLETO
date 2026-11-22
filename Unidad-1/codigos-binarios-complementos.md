@@ -1,17 +1,9 @@
 ---
 Sección: A
 Período: Vacaciones Primer Semestre 2026
-Catedrático: Carlos Amilcar Lozano
+Catedrático: Carlos Amilcar Lozano Reyes
 Auxiliar: Carlos José Blanco Guzmán
-Actualizado: 2026-08-15
-Tags:
-  - complementos
-  - complemento-de-r
-  - complemento-de-r-menos-uno
-  - códigos-binarios
-  - bdc
-  - paridad
-  - código-gray
+Actualizado: 2026-11-21
 ---
 
 # Códigos binarios y complementos en base $r$ y $r-1$

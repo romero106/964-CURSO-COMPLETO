@@ -1,15 +1,9 @@
 ---
 Sección: A
 Período: Vacaciones Primer Semestre 2026
-Catedrático: Carlos Amilcar Lozano
+Catedrático: Carlos Amilcar Lozano Reyes
 Auxiliar: Carlos José Blanco Guzmán
-Actualizado: 2026-08-24
-Tags:
-  - cpu
-  - modelo-de-von-neumann
-  - programa-almacenado
-  - ciclo-de-instrucción
-  - unidad-de-control
+Actualizado: 2026-11-21
 ---
 
 # Concepto básico de CPU con modelo de von Neumann
